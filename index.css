@@ -1,0 +1,49 @@
+.body{
+    
+}
+.home{
+    position: relative;
+    border-style: solid;
+    color: blueviolet;
+}
+.header ul li{
+    display: inline;
+    
+}
+
+.nav{
+    margin-left: 0%;
+    word-spacing: 2px; 
+    position: absolute;
+    left: 50px;
+}
+.bar{
+    margin-right: 10%;
+    position: absolute;
+    word-spacing: 50px;
+    left: 400px;
+    
+}
+.content{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    color: blueviolet;
+    
+    
+}
+.icon{
+    position: absolute;
+    right: 30px;
+    word-spacing: 10px;
+}
+.button{
+    background-color: brown;
+    width: fit-content;
+    }
+    .flex{
+       
+       
+       
+       
+    }
